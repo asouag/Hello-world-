@@ -1,1 +1,1 @@
-Discovering git! 
+Discovering git! step by step
